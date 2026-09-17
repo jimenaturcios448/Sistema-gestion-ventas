@@ -10,7 +10,7 @@ El sistema utiliza Python para la lógica de la aplicación y MySQL como sistema
 
 ## 🎯 Objetivo
 
-crear una solucion sencilla para llevar el control de:
+Crear una solución sencilla para llevar el control de:
 
 - Clientes
 - Productos
@@ -48,7 +48,7 @@ El proyecto fue desarrollado como parte de mi portafolio para demostrar conocimi
 - Registrar el detalle de cada producto vendido.
 - Actualizar automáticamente el stock.
 
-### 📊 reportes
+### 📊 Reportes
 
 - Reporte de ventas.
 - Reporte de inventario.
@@ -78,20 +78,13 @@ Sistema-Gestion-venta/
 │   └── ventas.py
 │
 ├── screenshots/
-│   ├── clientes.png
+│   ├── Clientes.png
 │   ├── Gestion.png
-<<<<<<< HEAD
-│   ├── productos.png
-│   ├── reporte.png
-=======
 │   ├── Productos.png
-│   ├── reportes.png
->>>>>>> c1a511e (Mover imagen reportes a screenshots y guardar cambios)
-│   └── ventas.png
+│   ├── Ventas.png
+│   └── Reportes.png
 │
 ├── .env
 ├── .gitignore
 ├── BD_ventas.sql
 └── README.md
-
- 
