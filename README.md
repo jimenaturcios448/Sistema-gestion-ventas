@@ -10,7 +10,7 @@ El sistema utiliza Python para la lógica de la aplicación y MySQL como sistema
 
 ## 🎯 Objetivo
 
-Creaar una solución sencilla para llevar el control de:
+Crear una solución sencilla para llevar el control de:
 
 - Clientes
 - Productos
