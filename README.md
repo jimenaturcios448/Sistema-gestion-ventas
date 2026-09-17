@@ -82,20 +82,4 @@ Sistema-Gestión-Ventas/
 ├── BD_ventas.sql
 └── README.md
 
-## 📸 Capturas del sistema
 
-### 👥 Gestión de clientes
-
-![Gestión de clientes](screenshots/clientes.png)
-
-### 📦 Gestión de productos
-
-![Gestión de productos](screenshots/productos.png)
-
-### 🛒 Gestión de ventas
-
-![Gestión de ventas](screenshots/ventas.png)
-
-### 📊 Reportes
-
-![Reportes](screenshots/reportes.png)
