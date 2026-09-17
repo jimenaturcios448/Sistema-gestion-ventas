@@ -9,14 +9,14 @@ def reporte_ventas():
 
         cursor.execute("""
             SELECT
-                v.id_ventas,
+                v.id_venta,
                 c.nombre,
                 v.fecha,
                 v.total
             FROM ventas v
             INNER JOIN clientes c
                 ON v.id_cliente = c.id_cliente
-            ORDER BY v.id_ventas DESC
+            ORDER BY v.id_venta DESC
         """)
 
         lista = cursor.fetchall()

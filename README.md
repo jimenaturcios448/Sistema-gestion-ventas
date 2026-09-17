@@ -80,8 +80,13 @@ Sistema-Gestion-venta/
 ├── screenshots/
 │   ├── clientes.png
 │   ├── Gestion.png
+<<<<<<< HEAD
 │   ├── productos.png
 │   ├── reporte.png
+=======
+│   ├── Productos.png
+│   ├── reportes.png
+>>>>>>> c1a511e (Mover imagen reportes a screenshots y guardar cambios)
 │   └── ventas.png
 │
 ├── .env
