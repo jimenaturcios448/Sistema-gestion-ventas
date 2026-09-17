@@ -48,7 +48,7 @@ El proyecto fue desarrollado como parte de mi portafolio para demostrar conocimi
 - Registrar el detalle de cada producto vendido.
 - Actualizar automáticamente el stock.
 
-### 📊 reportes
+### 📊 Reportes
 
 - Reporte de ventas.
 - Reporte de inventario.
