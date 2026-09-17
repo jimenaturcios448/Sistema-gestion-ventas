@@ -67,7 +67,7 @@ El proyecto fue desarrollado como parte de mi portafolio para demostrar conocimi
 ## 🗂️ Estructura del proyecto
 
 ```text
-Sistema-Gestión-Ventas/
+Sistema-Gestion-venta/
 │
 ├── src/
 │   ├── clientes.py
@@ -77,9 +77,16 @@ Sistema-Gestión-Ventas/
 │   ├── reportes.py
 │   └── ventas.py
 │
+├── screenshots/
+│   ├── clientes.png
+│   ├── Gestion.png
+│   ├── productos.png
+│   ├── reporte.png
+│   └── ventas.png
+│
 ├── .env
 ├── .gitignore
 ├── BD_ventas.sql
 └── README.md
 
-
+ 
